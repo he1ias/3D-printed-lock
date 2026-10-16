@@ -1,7 +1,7 @@
 ## 3D-printed-lock
 A fully 3D-printed lock &amp; key, showcasing the mechanics of how they work. Made for HackClub's HalfLife event.
 
-!()[]
+![A fully 3D-printed lock](https://github.com/he1ias/3D-printed-lock/blob/main/Final.png)
 
 ### How does it work?
 
