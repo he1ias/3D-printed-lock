@@ -14,3 +14,15 @@ To demonstrate the mechanics of how locks work.
 ### How can I build it myself?
 
 Easy! `.STL` & `.STEP` files are located inside this repository which are ready to print! The only other parts that are required are 1cm M2 screws, and small 3mm wide springs (which can be found inside pens!).
+
+### How was it made?
+
+I first made a prototype using TinkerCAD:
+
+![The final key](https://github.com/he1ias/3D-printed-lock/blob/main/TinkerCAD.jpeg)
+
+I then designed the key using Adobe Illustrator:
+
+![The final key](https://github.com/he1ias/3D-printed-lock/blob/main/Illustrator.png)
+
+...and the final model (as seen above) was made in Onshape, an online 3D modelling tool!
