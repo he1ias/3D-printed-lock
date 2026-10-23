@@ -24,7 +24,7 @@ The bill of materials is located in `BOM.csv`, and I have attached it here:
 | 3mm Springs (Bag of 20) | 1 | LCSC | $0.48 | $0.48 | https://www.lcsc.com/product-detail/C49434421.html?s_z=n_q_springs |
 | Estimated total shipping | 1 | | | $6.58 | |
 
-For the print settings, I used SLA (resin) and a layer of 0.12mm to make sure the finer details of the key and pins was preserved. I also made sure the lock body itself was printed with its z-axis up, to preserve the small 1.6mm M2 screw holes.
+For the print settings, I used SLA (resin) and a layer height of 0.12mm to make sure the finer details of the key and pins was preserved. I also made sure the lock body itself was printed with its z-axis up, to preserve the small 1.6mm M2 screw holes. Additionally, I made sure each moving piece of the lock has at least 0.4mm clearance from all others so the movement is smooth. 
 
 ### How was it made?
 
@@ -36,4 +36,4 @@ I then designed the key using Adobe Illustrator:
 
 ![The final key](https://github.com/he1ias/3D-printed-lock/blob/main/Illustrator.png)
 
-...and the final model (as seen above) was made in Onshape, an online 3D modelling tool!
+...and the final model (as seen above) was made in Onshape, an online 3D modelling tool! The Onshape document can be viewed ![here](https://cad.onshape.com/documents/6842d2fd2038770961537897/w/d2c76bef429c0ac652c0f9a3/e/1938b01c2c3a28518a79a9e6).
