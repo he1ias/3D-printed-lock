@@ -36,4 +36,4 @@ I then designed the key using Adobe Illustrator:
 
 ![The final key](https://github.com/he1ias/3D-printed-lock/blob/main/Illustrator.png)
 
-...and the final model (as seen above) was made in Onshape, an online 3D modelling tool! The Onshape document can be viewed ![here](https://cad.onshape.com/documents/6842d2fd2038770961537897/w/d2c76bef429c0ac652c0f9a3/e/1938b01c2c3a28518a79a9e6).
+...and the final model (as seen above) was made in Onshape, an online 3D modelling tool! The Onshape document can be viewed [here](https://cad.onshape.com/documents/6842d2fd2038770961537897/w/d2c76bef429c0ac652c0f9a3/e/1938b01c2c3a28518a79a9e6).
