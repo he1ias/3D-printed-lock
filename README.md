@@ -26,6 +26,18 @@ The bill of materials is located in `BOM.csv`, and I have attached it here:
 
 For the print settings, I used SLA (resin) and a layer height of 0.12mm to make sure the finer details of the key and pins was preserved. I also made sure the lock body itself was printed with its z-axis up, to preserve the small 1.6mm M2 screw holes. Additionally, I made sure each moving piece of the lock has at least 0.4mm clearance from all others so the movement is smooth. 
 
+### Once I've printed the parts, how do I assemble the lock?
+
+Easy!
+
+First, take the barrel, pin holes facing upwards, and insert the 4 variable-sized pins in their correct positions. Then, take the housing, and hold it upside down, so that the pin-holes are also facing up. 
+
+Starting with the housing's back pin hole, use tweezers to insert a spring and balance a 4mm pin on top. Push the pin down into the hole, and slide the flat (bottom) side of the barrel over the top, holding the pin and spring in place. Repeat for the other 3 pins.
+
+Finally, rotate the barrel 180 degrees. This will align the holes of the barrel and housing, clicking the pins into place.
+
+Then, simply use the 4 screws to secure the backplate, and that's it!!!
+
 ### How was it made?
 
 I first made a prototype using TinkerCAD:
